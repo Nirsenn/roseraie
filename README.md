@@ -7,6 +7,8 @@ I coded this project using Javascript, PHP, SQL, HTML and CSS.
 
 No specific modules need to be installed.
 
+It is necessary to replace the data in the 'connection.php' file with your own local username and password.
+
 
 ## Usage
 The website consists of 5 different pages : 
